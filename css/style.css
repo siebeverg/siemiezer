@@ -1,0 +1,24 @@
+/* CSS styles for the page */
+.body-style {
+    font-family: Arial, sans-serif; /* Sets the font for the body of the page */
+}
+
+
+.header-style, .footer-style {
+    background-color: #f8f9fa; /* Sets the background color for the header and footer */
+    padding: 20px; /* Adds padding around the header and footer */
+    text-align: center; /* Centers the text in the header and footer */
+}
+
+
+.main-style {
+    margin: 20px; /* Adds margin around the main content */
+}
+
+
+.footer-style {
+    position: fixed; /* Fixes the position of the footer */
+    left: 0; /* Positions the footer at the left of the page */
+    bottom: 0; /* Positions the footer at the bottom of the page */
+    width: 100%; /* Sets the width of the footer */
+}
